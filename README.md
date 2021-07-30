@@ -15,4 +15,4 @@ pip install textblob
 
 How to run
 Clone the repository and install all the required packages
-Edit the sentiment.py add twitter credential keys
+Edit the config_twitter.py add twitter credential keys
