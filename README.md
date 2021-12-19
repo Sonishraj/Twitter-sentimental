@@ -2,8 +2,8 @@
 
 <b>Programming Language Used</b> <br>
 
-1.Python version 3.2 or greater <br>
-2.HTML 5 <br>
+1.Python <br>
+2.JavaScript <br>
 
 <b>Packages Used </b> <br>
 
@@ -24,9 +24,7 @@ Clone the repository and install all the required packages
 Edit the config_twitter.py add twitter credential keys
 
 
-Open terminal and go to flask-server directory start the server
-
-python Twitter Individual.py
+Open Jupyter notebook terminal and open Twitter Individual.ipynb
 
 Now open the index.html and start searching
 
