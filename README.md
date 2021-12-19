@@ -15,8 +15,8 @@
 
 <b>Installing Packages</b> <br>
 
-pip install tweepy
-pip install textblob
+pip install tweepy <br>
+pip install textblob <br>
 
 <b>How to run</b><br>
 
