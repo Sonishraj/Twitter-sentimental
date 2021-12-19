@@ -1,18 +1,33 @@
-# Twitter-sentimental
+# Twitter Sentimental Analysis using Python
 
-Programming Language Used
-1.Python >3
-2.Jupyter
+<b>Programming Language Used</b> <br>
 
-Packages Used
-1.tweepy
-2.textblob
+1.Python version 3.2 or greater <br>
+2.HTML 5 <br>
+
+<b>Packages Used </b> <br>
+
+1.tweepy <br>
+2.textblob <br>
+3.pandas <br>
+4.json <br>
 
 
-Installing Packages
+<b>Installing Packages</b> <br>
+
 pip install tweepy
 pip install textblob
 
-How to run
+<b>How to run</b><br>
+
 Clone the repository and install all the required packages
 Edit the config_twitter.py add twitter credential keys
+
+
+Open terminal and go to flask-server directory start the server
+
+python Twitter Individual.py
+
+Now open the index.html and start searching
+
+It works!!!!
